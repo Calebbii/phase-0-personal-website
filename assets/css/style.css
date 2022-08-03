@@ -1,0 +1,56 @@
+
+body {
+    background-image: url(https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+
+
+
+.topnav {
+    position: relative;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 15px;
+}
+
+.topnav a:hover {
+    background-color: orangered;
+}
+
+#navbar{
+    margin-left: 15cm;
+}
+
+#intro h2,h6{
+    color: white;
+    font-size: 45px;
+    max-width: 15cm;
+}
+#intro h2 {
+    margin-left: 15cm;
+    border: 5cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#intro {
+    margin-top: 5cm;
+}
+
+#merge {
+    margin-left: 5cm;
+}
+.form {
+    padding: 5cm;
+    margin-left:13cm;
+    margin-top: 3cm;
+
+}
