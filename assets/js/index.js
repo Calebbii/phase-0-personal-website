@@ -27,7 +27,7 @@ fetch('https://api.adviceslip.com/advice').then( response => {
 
 function getComment(){
     let name = document.getElementById("name").value;
-    let messages = `Hello ${name}, I have recieved your comment we value your feedback`;
+    let messages = `Hello ${name}, We have recieved your comment we value your feedback`;
     alertMessage(messages);
 }
 
