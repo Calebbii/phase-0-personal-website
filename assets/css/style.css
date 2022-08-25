@@ -1,6 +1,6 @@
 
 body {
-    background-image: url(https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-image: url(https://i.pinimg.com/564x/fc/0b/ca/fc0bca765c94a813eb8797590f21b2f0.jpg);
     background-size: cover;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 #navbar{
-    margin-left: 15cm;
+    margin-left: 18cm;
 }
 
 #intro h2,h6{
@@ -42,15 +42,19 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #intro {
-    margin-top: 5cm;
+    margin-top: 0cm;
 }
 
 #merge {
     margin-left: 5cm;
 }
 .form {
-    padding: 5cm;
-    margin-left:13cm;
-    margin-top: 3cm;
+    padding: 3cm;
+    margin-left:15cm;
+    
 
+}
+.container {
+    text-align: center;
+    margin-top: 6cm;
 }
